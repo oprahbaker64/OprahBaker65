@@ -28,8 +28,7 @@ programming skills (Beginner);
 
 💻 Vs Code
 
-##📞**How to reach me**
-
-(nyanchama680@gmail.com)
+##📞**How to reach
+nyanchama680@gmail.com
 
 ✨This github profile is where I bring together my background in environmental management with my growing programming skills
